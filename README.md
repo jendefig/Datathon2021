@@ -6,6 +6,17 @@ Datathon 2021 Repository
 - raw_data             <-- do NOT check in; keep in your local folders only
    |- DataDictionary*.csv
    |- Training*.csv
+```
+
+|Who|Submission|Score|Notes|
+|---|---|---|---|
+|Jeny|1|.84172|Catboost|
+|Jeny|2|.49744|KNNImputer, Catboost|
+|Jeny|3 and 4|.50456||
+|Jeny|5|.49744|Remove lower features from 2|
+|Jeny|6|.85176|AutoViML|
+|Jamie|1|.616|RandomForest no FE|
+|Jamie|2|.841|Tabnet v2|
 
 # Jeny's Submissions
 Submission 1
