@@ -15,6 +15,8 @@ Datathon 2021 Repository
 |Jeny|3 and 4|.50456||
 |Jeny|5|.49744|Remove lower features from 2|
 |Jeny|6|.85176|AutoViML|
+|Jeny|7|.83502|Hour Data, AutoViML|
+|Jeny|8|.85630|Day Data, AutoViML|
 |Jamie|1|.616|RandomForest no FE|
 |Jamie|2|.841|Tabnet v2|
 
